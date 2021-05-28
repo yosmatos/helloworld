@@ -4,3 +4,4 @@
 <h1> Good job Arianne on learning Devops</h1>
 <h1> Your are on a good path to be a Kubernetes Engineer</h1>
 <h1> I am using git to commit my code </h1>
+<h3> I am integrating automation through poll scm </h3>
